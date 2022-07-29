@@ -1,0 +1,48 @@
+.infos {
+    background-color: #E8E7E7;
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+h2 {
+    opacity: 80%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.autora-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.autora-parag {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.autora-parag a {
+    text-decoration: none;
+    color: #C0B5BA;
+}
+
+.autora img {
+    width: 15vw;
+    border-radius: 50px;
+    background-color: #C0B5BA;
+    padding: 10px;
+    margin: 70px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.links img {
+    max-width: 6vw;
+}

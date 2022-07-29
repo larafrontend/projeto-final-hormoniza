@@ -1,0 +1,21 @@
+.header {
+    background-color: #E8E7E7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.header img {
+    width: 10rem;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.header h1 {
+    font-size: 70px;
+    color: #000;
+    opacity: 70%;
+    margin-bottom: 80px;
+}

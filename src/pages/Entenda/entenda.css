@@ -1,0 +1,34 @@
+.infos {
+    background-color: #E8E7E7;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+.info-container h2, h3, p {
+    opacity: 80%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.terapia-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.terapia-card {
+    background-color: #C0B5BA;
+    border: 5px solid #C0B5BA;
+    width: 35vw;
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+    opacity: 85%;
+}
+
+.terapia-card li {
+    margin-top: 5px;
+}
+
