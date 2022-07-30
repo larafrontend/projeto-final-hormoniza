@@ -45,10 +45,11 @@ function Hormoniza() {
                     <p>
                         Para acessar o mapa é só clicar no botão abaixo.
                     </p>
-                    <Link className="mapa-btn" to="/mapa">
-                        <button>Mapa</button>
-                    </Link>
-                        
+                    <div className="mapa-btn">
+                        <Link to="/mapa">
+                            <button>Mapa</button>
+                        </Link>
+                    </div>
                 </section>
             </div>
         </>

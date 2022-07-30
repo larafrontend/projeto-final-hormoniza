@@ -9,7 +9,7 @@ function Menu() {
                 <div className='logo'>
                     <img src={hormoniza} alt="logo hormoniza" />
                 </div>
-                <div className='navbar'>
+                <div className='navbar hamb-nav'>
                     <ul className='menu'>
                         <li className='item'>
                             <Link className='link' to='/'>Hormoniza</Link>

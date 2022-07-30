@@ -46,3 +46,33 @@ h2 {
 .links img {
     max-width: 6vw;
 }
+
+@media screen and (max-width:1280px) {
+    .infos {
+        max-width: 1024px;
+    }
+
+    .autora-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .infos {
+        max-width: 769px;
+    }
+
+    .autora-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:769px) {
+    .infos {
+        max-width: 481px;
+    }
+}
