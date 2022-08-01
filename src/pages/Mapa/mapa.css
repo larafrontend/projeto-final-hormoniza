@@ -47,3 +47,30 @@
 .card p {
     font-size: 20px;
 }
+
+@media (max-width: 750px) {
+    .input {
+        width: 60vw;
+        height: 12vw;
+        font-size: 20px;
+    }
+
+    .card-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 5px;
+    }
+
+    .card h2 {
+        font-size: 30px;
+    }
+
+    .card {
+        background-color: #C0B5BA;
+        border: 5px solid #C0B5BA;
+        width: 40vw;
+        margin: 20px;
+        padding: 2px;
+        text-align: center;
+    }
+}

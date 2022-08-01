@@ -5,11 +5,19 @@ import './menu.css'
 function Menu() {
     return (
         <>
-            <div className='container'>
+            <nav className='container'>
+                
+                <input type="checkbox" id='check' />
+
+                <label className='responsive-menu responsive-check' htmlFor="check">
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </label>
+
                 <div className='logo'>
                     <img src={hormoniza} alt="logo hormoniza" />
                 </div>
-                <div className='navbar hamb-nav'>
                     <ul className='menu'>
                         <li className='item'>
                             <Link className='link' to='/'>Hormoniza</Link>
@@ -24,8 +32,7 @@ function Menu() {
                             <Link className='link' to='/sobre'>Sobre</Link>
                         </li>
                     </ul>
-                </div>
-            </div>
+            </nav>
         </>
     )
 }

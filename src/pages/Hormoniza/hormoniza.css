@@ -55,3 +55,27 @@
     border: 5px solid #E8E7E7;
     cursor: pointer;
 }
+
+@media (max-width: 750px) {
+    .infos {
+        background-color: #E8E7E7;
+        font-size: 25px;
+        font-weight: 400;
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-bottom: 40px;
+    }
+
+    .second-section button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-image: linear-gradient(#94BBE9, #C0B5BA, #EEAECA);
+        width: 150px;
+        height: 70px;
+        font-size: 35px;
+        border-radius: 50px;
+        border: 5px solid #E8E7E7;
+        cursor: pointer;
+    }
+}

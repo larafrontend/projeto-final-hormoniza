@@ -1,4 +1,4 @@
-.infos {
+.infos-entenda {
     background-color: #E8E7E7;
     font-size: 30px;
     font-weight: 600;
@@ -7,10 +7,10 @@
     padding-bottom: 80px;
 }
 
-.info-container h2, h3, p {
-    opacity: 80%;
+.info-cont h2, h3, p {
+    opacity: 75%;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 45px;
 }
 
 .terapia-container {

@@ -15,7 +15,7 @@ function Sobre() {
             >
                 Sobre
             </Header>
-            <div className="infos">
+            <div className="infos-autora">
                 <h2>O lugar da pessoa trans/travesti é onde ela quiser!</h2>
                 <div className="autora-container">
                     <div className="autora">

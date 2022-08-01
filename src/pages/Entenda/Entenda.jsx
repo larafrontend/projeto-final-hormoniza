@@ -11,8 +11,8 @@ function Entenda() {
             >
                 Entenda
             </Header>
-            <div className="infos">
-                <section className="info-container">
+            <div className="infos-entenda">
+                <section className="info-cont">
                     <h2>Terapia Hormonal</h2>
                     <p>
                         Tratamento feito por pessoas trans que desejam ter modificações corporais através
