@@ -22,8 +22,8 @@ function Entenda() {
                     </p>
                     <div className="info-container">
                         <h3>Alguns Efeitos Esperados</h3>
-                        <div className="terapia-container">
-                            <ul className="terapia-card"> Estrogênio:
+                        <div className="hormo-container">
+                            <ul className="hormo-card"> Estrogênio:
                                 <li>Redistribuição de gordura corporal</li>
                                 <li>Redução de massa muscular</li>
                                 <li>Sensibilidade e aumento de seios</li>
@@ -31,7 +31,7 @@ function Entenda() {
                                 <li>Redução ou interrupção de calvíce</li>
                                 <li>Diminuição da libido</li>
                             </ul>
-                            <ul className="terapia-card"> Testosterona:
+                            <ul className="hormo-card"> Testosterona:
                                 <li>Crescimento de pêlos</li>
                                 <li>Pode haver desenvolvimento de calvíce</li>
                                 <li>Aumento da libido</li>

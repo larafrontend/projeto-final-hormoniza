@@ -16,7 +16,7 @@ function Menu() {
                 </label>
 
                 <div className='logo'>
-                    <img src={hormoniza} alt="logo hormoniza" />
+                    <Link to='/'><img src={hormoniza} alt="logo hormoniza" /></Link>
                 </div>
                     <ul className='menu'>
                         <li className='item'>

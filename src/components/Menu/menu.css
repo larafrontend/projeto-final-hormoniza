@@ -61,8 +61,8 @@
         margin-right: 40px;
     }
 
-    ul {
-        position: fixed;
+    .container ul {
+        position: absolute;
         width: 100%;
         height: 30vh;
         top: 65px;
@@ -73,7 +73,7 @@
     }
 
     nav {
-        height: 10vh;
+        height: 8vh;
     }
 
     nav ul li {

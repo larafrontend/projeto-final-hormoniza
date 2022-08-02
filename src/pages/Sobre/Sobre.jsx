@@ -25,7 +25,7 @@ function Sobre() {
                         <p>
                             Lara Oliveira é arquiteta e urbanista de formação, atualmente buscando conhecimentos
                             e desbravando o mundo tech com foco em desenvolvimento front-end. Fazendo parte da turma
-                            On17 do Bootcamp "Todas em Tech" da <span><a href="https://reprograma.com.br/">Reprograma.</a></span>
+                            On17 do Bootcamp "Todas em Tech" da <span><a href="https://reprograma.com.br/" target="_blank">Reprograma.</a></span>
                         </p>
                         <p>
                             A aspirante a desenvolvedora buscou desenvolver este site pensando na época em que buscou
